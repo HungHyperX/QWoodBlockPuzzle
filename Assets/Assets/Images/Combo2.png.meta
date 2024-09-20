@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 440c071ee1034ef7bbd1f7b7992dbc99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: record_image_flower4_3
+  - first:
+      213: 21300002
+    second: record_image_flower3_3
+  - first:
+      213: 21300004
+    second: record_image_flower5_1
+  - first:
+      213: 21300006
+    second: record_image_flower4
+  - first:
+      213: 21300008
+    second: record_image_leaf_3
+  - first:
+      213: 21300010
+    second: record_image_flower4_1
+  - first:
+      213: 21300012
+    second: record_image_flower6_2
+  - first:
+      213: 21300014
+    second: record_image_flower6
+  - first:
+      213: 21300016
+    second: record_image_flower5
+  - first:
+      213: 21300018
+    second: record_image_flower6_3
+  - first:
+      213: 21300020
+    second: record_image_flower4_2
+  - first:
+      213: 21300022
+    second: record_image_flower5_3
+  - first:
+      213: 21300024
+    second: record_image_flower3_1
+  - first:
+      213: 21300026
+    second: record_image_flower3
+  - first:
+      213: 21300028
+    second: record_image_flower6_1
+  - first:
+      213: 21300030
+    second: record_image_leaf_2
+  - first:
+      213: 21300032
+    second: record_image_flower5_2
+  - first:
+      213: 21300034
+    second: record_image_flower3_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 50
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 366, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: record_image_flower6_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 318
+        width: 138
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -30}
+        - {x: -69, y: 18}
+        - {x: -53, y: -40}
+      - - {x: -45, y: 56}
+        - {x: -53, y: -40}
+        - {x: -69, y: 18}
+      - - {x: -16, y: -56}
+        - {x: -53, y: -40}
+        - {x: -45, y: 56}
+      - - {x: 45, y: 56}
+        - {x: -16, y: -56}
+        - {x: -45, y: 56}
+      - - {x: 59, y: -56}
+        - {x: -16, y: -56}
+        - {x: 45, y: 56}
+      - - {x: 69, y: 44}
+        - {x: 59, y: -56}
+        - {x: 45, y: 56}
+      - - {x: 69, y: -37}
+        - {x: 59, y: -56}
+        - {x: 69, y: 44}
+      physicsShape:
+      - - {x: 62, y: -26}
+        - {x: 60, y: -9.999999}
+        - {x: 65, y: 4}
+        - {x: 54, y: 27}
+        - {x: 53, y: 31}
+        - {x: 44, y: 44}
+        - {x: 21, y: 53}
+        - {x: 9, y: 56}
+        - {x: -18, y: 56}
+        - {x: -30, y: 48}
+        - {x: -32, y: 40}
+        - {x: -52, y: 42}
+        - {x: -54, y: 23}
+        - {x: -48, y: -1}
+        - {x: -59, y: -4}
+        - {x: -69, y: -18}
+        - {x: -69, y: -24}
+        - {x: -53, y: -33}
+        - {x: -34, y: -34}
+        - {x: -23, y: -42}
+        - {x: -11, y: -50}
+        - {x: 16, y: -50}
+        - {x: 29, y: -45}
+        - {x: 46, y: -46}
+        - {x: 61, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_leaf_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 802
+        width: 218
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: -68}
+        - {x: -109, y: -22}
+        - {x: 18, y: -68}
+      - - {x: -37, y: 68}
+        - {x: 18, y: -68}
+        - {x: -109, y: -22}
+      - - {x: 75, y: 68}
+        - {x: 18, y: -68}
+        - {x: -37, y: 68}
+      - - {x: 108, y: -53}
+        - {x: 18, y: -68}
+        - {x: 75, y: 68}
+      - - {x: 109, y: 61}
+        - {x: 108, y: -53}
+        - {x: 75, y: 68}
+      - - {x: 109, y: -48}
+        - {x: 108, y: -53}
+        - {x: 109, y: 61}
+      physicsShape:
+      - - {x: 21, y: -48}
+        - {x: 25, y: -38}
+        - {x: 17, y: -26}
+        - {x: 15, y: -24}
+        - {x: 7, y: -14}
+        - {x: 22, y: -31}
+        - {x: 33, y: -36}
+        - {x: 58, y: -36}
+        - {x: 66.99999, y: -33}
+        - {x: 74, y: -30}
+        - {x: 79, y: -25}
+        - {x: 78, y: -22}
+        - {x: 65, y: -9.999999}
+        - {x: 57, y: -5}
+        - {x: 52, y: -3}
+        - {x: 70, y: 0}
+        - {x: 79.99999, y: 3}
+        - {x: 91, y: 7}
+        - {x: 105, y: 27}
+        - {x: 106, y: 42}
+        - {x: 106, y: 49}
+        - {x: 105, y: 52}
+        - {x: 74, y: 52}
+        - {x: 51, y: 44}
+        - {x: 45, y: 38}
+        - {x: 45, y: 68}
+        - {x: 36, y: 68}
+        - {x: 20, y: 60}
+        - {x: 6, y: 42}
+        - {x: 2, y: 54}
+        - {x: -5, y: 51}
+        - {x: -20, y: 36}
+        - {x: -26, y: 21}
+        - {x: -31, y: -14}
+        - {x: -62, y: -25}
+        - {x: -97.99999, y: -39}
+        - {x: -106, y: -52}
+        - {x: -106, y: -57}
+        - {x: -102, y: -57}
+        - {x: -49, y: -32}
+        - {x: -19, y: -20}
+        - {x: -11, y: -41}
+        - {x: -15, y: -4}
+        - {x: -11, y: 0}
+        - {x: -9.999999, y: 0}
+        - {x: 0, y: 9.999999}
+        - {x: 0, y: 11}
+        - {x: 3, y: 15}
+        - {x: 3, y: 19}
+        - {x: 2, y: 7}
+        - {x: 3, y: 6}
+        - {x: 1, y: 4}
+        - {x: -1, y: 1}
+        - {x: -3, y: -1}
+        - {x: -5, y: -5}
+        - {x: -6, y: -5}
+        - {x: -12, y: -7}
+        - {x: -13, y: -8}
+        - {x: -16, y: -9}
+        - {x: 14, y: 4}
+        - {x: 21, y: 7}
+        - {x: 25, y: 11}
+        - {x: 26, y: 11}
+        - {x: 29, y: 14}
+        - {x: 26, y: 11}
+        - {x: 24, y: 7}
+        - {x: 20, y: 4}
+        - {x: 17, y: 7}
+        - {x: 13, y: 6}
+        - {x: 9, y: 0}
+        - {x: 11, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 204
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -68}
+        - {x: -102, y: 47}
+        - {x: -100, y: -77}
+      - - {x: -51, y: 77}
+        - {x: -100, y: -77}
+        - {x: -102, y: 47}
+      - - {x: 42, y: -77}
+        - {x: -100, y: -77}
+        - {x: -51, y: 77}
+      - - {x: -7, y: 77}
+        - {x: 42, y: -77}
+        - {x: -51, y: 77}
+      - - {x: 53, y: 68}
+        - {x: 42, y: -77}
+        - {x: -7, y: 77}
+      - - {x: 102, y: -52}
+        - {x: 42, y: -77}
+        - {x: 53, y: 68}
+      - - {x: 102, y: 2}
+        - {x: 102, y: -52}
+        - {x: 53, y: 68}
+      physicsShape:
+      - - {x: 66.99999, y: -52}
+        - {x: 71, y: -41}
+        - {x: 97, y: -40}
+        - {x: 97.99999, y: -37}
+        - {x: 97.99999, y: -30}
+        - {x: 98.99999, y: -23}
+        - {x: 98.99999, y: -4}
+        - {x: 85, y: 14}
+        - {x: 78, y: 18}
+        - {x: 66.99999, y: 22}
+        - {x: 55, y: 23}
+        - {x: 58, y: 44}
+        - {x: 52, y: 64}
+        - {x: 29, y: 69}
+        - {x: 7, y: 60}
+        - {x: -9.999999, y: 77}
+        - {x: -43, y: 77}
+        - {x: -55, y: 63}
+        - {x: -55, y: 43}
+        - {x: -79.99999, y: 40}
+        - {x: -91, y: 34}
+        - {x: -101, y: 22}
+        - {x: -102, y: 16}
+        - {x: -93, y: 8}
+        - {x: -102, y: 0}
+        - {x: -102, y: -7}
+        - {x: -91.99999, y: -12}
+        - {x: -96, y: -23}
+        - {x: -97.99999, y: -33}
+        - {x: -89, y: -38}
+        - {x: -82, y: -52}
+        - {x: -63, y: -48}
+        - {x: -57, y: -60}
+        - {x: -44, y: -66.99999}
+        - {x: -27, y: -61}
+        - {x: -17, y: -65}
+        - {x: -9, y: -59}
+        - {x: 1, y: -68}
+        - {x: 11, y: -72}
+        - {x: 18, y: -72}
+        - {x: 28, y: -63}
+        - {x: 40, y: -63}
+        - {x: 57, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 440
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 366, y: 0, z: 20, w: 0}
+      outline:
+      - - {x: -220, y: -76}
+        - {x: -220, y: -56}
+        - {x: -215, y: -79}
+      - - {x: -211, y: -43}
+        - {x: -215, y: -79}
+        - {x: -220, y: -56}
+      - - {x: -128, y: -79}
+        - {x: -215, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -188, y: -24}
+        - {x: -128, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -145, y: 38}
+        - {x: -128, y: -79}
+        - {x: -188, y: -24}
+      - - {x: -139, y: 65}
+        - {x: -128, y: -79}
+        - {x: -145, y: 38}
+      - - {x: -129, y: 79}
+        - {x: -128, y: -79}
+        - {x: -139, y: 65}
+      - - {x: -66, y: -44}
+        - {x: -128, y: -79}
+        - {x: -129, y: 79}
+      - - {x: 220, y: 79}
+        - {x: -66, y: -44}
+        - {x: -129, y: 79}
+      - - {x: -115, y: -77}
+        - {x: -128, y: -79}
+        - {x: -66, y: -44}
+      - - {x: -98, y: -74}
+        - {x: -115, y: -77}
+        - {x: -66, y: -44}
+      - - {x: -75, y: -63}
+        - {x: -98, y: -74}
+        - {x: -66, y: -44}
+      - - {x: -66, y: -56}
+        - {x: -75, y: -63}
+        - {x: -66, y: -44}
+      - - {x: 219, y: -43}
+        - {x: -66, y: -44}
+        - {x: 220, y: 79}
+      - - {x: 220, y: -42}
+        - {x: 219, y: -43}
+        - {x: 220, y: 79}
+      - - {x: -220, y: 7}
+        - {x: -220, y: 19}
+        - {x: -188, y: -24}
+      - - {x: -217, y: 30}
+        - {x: -188, y: -24}
+        - {x: -220, y: 19}
+      - - {x: -213, y: 33}
+        - {x: -188, y: -24}
+        - {x: -217, y: 30}
+      - - {x: -145, y: 38}
+        - {x: -188, y: -24}
+        - {x: -213, y: 33}
+      physicsShape:
+      - - {x: 219, y: -25}
+        - {x: 220, y: -24}
+        - {x: 220, y: 79}
+        - {x: -129, y: 79}
+        - {x: -139, y: 66}
+        - {x: -135, y: 39}
+        - {x: -213, y: 33}
+        - {x: -216, y: 23}
+        - {x: -182, y: -14}
+        - {x: -217, y: -53}
+        - {x: -217, y: -62}
+        - {x: -212, y: -63}
+        - {x: -131, y: -63}
+        - {x: -89, y: -53}
+        - {x: -70, y: -40}
+        - {x: -72.99999, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower6_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 648
+        width: 204
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -33}
+        - {x: -102, y: 15}
+        - {x: -63, y: -75}
+      - - {x: -81, y: 48}
+        - {x: -63, y: -75}
+        - {x: -102, y: 15}
+      - - {x: -52, y: 70}
+        - {x: -63, y: -75}
+        - {x: -81, y: 48}
+      - - {x: 58, y: -75}
+        - {x: -63, y: -75}
+        - {x: -52, y: 70}
+      - - {x: -32, y: 75}
+        - {x: 58, y: -75}
+        - {x: -52, y: 70}
+      - - {x: 80, y: 75}
+        - {x: 58, y: -75}
+        - {x: -32, y: 75}
+      - - {x: 84, y: -70}
+        - {x: 58, y: -75}
+        - {x: 80, y: 75}
+      - - {x: 102, y: 35}
+        - {x: 84, y: -70}
+        - {x: 80, y: 75}
+      - - {x: 102, y: -49}
+        - {x: 84, y: -70}
+        - {x: 102, y: 35}
+      physicsShape:
+      - - {x: 63, y: -56}
+        - {x: 72, y: -52}
+        - {x: 79, y: -29}
+        - {x: 96, y: -3}
+        - {x: 96, y: 0}
+        - {x: 77, y: 38}
+        - {x: 72.99999, y: 49}
+        - {x: 59, y: 60}
+        - {x: 50, y: 66}
+        - {x: 33, y: 61}
+        - {x: 24, y: 60}
+        - {x: 15, y: 71}
+        - {x: 5, y: 75}
+        - {x: -23, y: 75}
+        - {x: -41, y: 59}
+        - {x: -48, y: 45}
+        - {x: -59, y: 47}
+        - {x: -79, y: 46}
+        - {x: -82, y: 45}
+        - {x: -81, y: 28}
+        - {x: -79.99999, y: 23}
+        - {x: -102, y: 4}
+        - {x: -102, y: -6}
+        - {x: -101, y: -8}
+        - {x: -88, y: -19}
+        - {x: -76, y: -43}
+        - {x: -78, y: -53}
+        - {x: -75, y: -56}
+        - {x: -43, y: -62}
+        - {x: -23, y: -68}
+        - {x: 2, y: -68}
+        - {x: 13, y: -64}
+        - {x: 20, y: -56}
+        - {x: 45, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 440
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 403, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220, y: -76}
+        - {x: -220, y: -56}
+        - {x: -215, y: -79}
+      - - {x: -211, y: -43}
+        - {x: -215, y: -79}
+        - {x: -220, y: -56}
+      - - {x: -128, y: -79}
+        - {x: -215, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -188, y: -24}
+        - {x: -128, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -145, y: 38}
+        - {x: -128, y: -79}
+        - {x: -188, y: -24}
+      - - {x: -141, y: 55}
+        - {x: -128, y: -79}
+        - {x: -145, y: 38}
+      - - {x: -139, y: 65}
+        - {x: -128, y: -79}
+        - {x: -141, y: 55}
+      - - {x: -129, y: 79}
+        - {x: -128, y: -79}
+        - {x: -139, y: 65}
+      - - {x: -66, y: -44}
+        - {x: -128, y: -79}
+        - {x: -129, y: 79}
+      - - {x: 220, y: 79}
+        - {x: -66, y: -44}
+        - {x: -129, y: 79}
+      - - {x: -115, y: -77}
+        - {x: -128, y: -79}
+        - {x: -66, y: -44}
+      - - {x: -98, y: -74}
+        - {x: -115, y: -77}
+        - {x: -66, y: -44}
+      - - {x: -75, y: -63}
+        - {x: -98, y: -74}
+        - {x: -66, y: -44}
+      - - {x: -66, y: -56}
+        - {x: -75, y: -63}
+        - {x: -66, y: -44}
+      - - {x: 220, y: -43}
+        - {x: -66, y: -44}
+        - {x: 220, y: 79}
+      - - {x: -220, y: 7}
+        - {x: -220, y: 19}
+        - {x: -188, y: -24}
+      - - {x: -217, y: 30}
+        - {x: -188, y: -24}
+        - {x: -220, y: 19}
+      - - {x: -213, y: 33}
+        - {x: -188, y: -24}
+        - {x: -217, y: 30}
+      - - {x: -145, y: 38}
+        - {x: -188, y: -24}
+        - {x: -213, y: 33}
+      physicsShape:
+      - - {x: 220, y: -25}
+        - {x: 220, y: 79}
+        - {x: -129, y: 79}
+        - {x: -139, y: 66}
+        - {x: -135, y: 39}
+        - {x: -213, y: 33}
+        - {x: -216, y: 23}
+        - {x: -176, y: -14}
+        - {x: -217, y: -53}
+        - {x: -217, y: -59}
+        - {x: -212, y: -63}
+        - {x: -131, y: -63}
+        - {x: -89, y: -53}
+        - {x: -70, y: -40}
+        - {x: -72.99999, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower5_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 136
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -30}
+        - {x: -68, y: 57}
+        - {x: -26, y: -52}
+      - - {x: 50, y: 57}
+        - {x: -26, y: -52}
+        - {x: -68, y: 57}
+      - - {x: -19, y: -52}
+        - {x: -26, y: -52}
+        - {x: 50, y: 57}
+      - - {x: 4, y: -57}
+        - {x: -19, y: -52}
+        - {x: 50, y: 57}
+      - - {x: 56, y: -57}
+        - {x: 4, y: -57}
+        - {x: 50, y: 57}
+      - - {x: 68, y: 51}
+        - {x: 56, y: -57}
+        - {x: 50, y: 57}
+      - - {x: 68, y: -28}
+        - {x: 56, y: -57}
+        - {x: 68, y: 51}
+      physicsShape:
+      - - {x: 54, y: -40}
+        - {x: 66, y: -19}
+        - {x: 66, y: -14}
+        - {x: 65, y: -9.999999}
+        - {x: 66, y: -5}
+        - {x: 66, y: 4}
+        - {x: 60, y: 17}
+        - {x: 42, y: 30}
+        - {x: 32, y: 35}
+        - {x: 32, y: 43}
+        - {x: 29, y: 44}
+        - {x: 22, y: 43}
+        - {x: 6, y: 43}
+        - {x: 2, y: 50}
+        - {x: -3, y: 57}
+        - {x: -7, y: 57}
+        - {x: -17, y: 45}
+        - {x: -29, y: 56}
+        - {x: -34, y: 57}
+        - {x: -39, y: 57}
+        - {x: -46, y: 43}
+        - {x: -59, y: 43}
+        - {x: -62, y: 39}
+        - {x: -62, y: 35}
+        - {x: -68, y: 19}
+        - {x: -68, y: 9.999999}
+        - {x: -66, y: -3}
+        - {x: -47, y: -15}
+        - {x: -46, y: -30}
+        - {x: -40, y: -32}
+        - {x: -31, y: -31}
+        - {x: -25, y: -45}
+        - {x: -12, y: -41}
+        - {x: -6, y: -38}
+        - {x: 13, y: -50}
+        - {x: 16, y: -51}
+        - {x: 28, y: -51}
+        - {x: 29, y: -39}
+        - {x: 38, y: -43}
+        - {x: 48, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower5_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 576
+        width: 64
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -15}
+        - {x: -32, y: 24}
+        - {x: -19, y: -27}
+      - - {x: -31, y: 27}
+        - {x: -19, y: -27}
+        - {x: -32, y: 24}
+      - - {x: 21, y: 27}
+        - {x: -19, y: -27}
+        - {x: -31, y: 27}
+      - - {x: 30, y: -27}
+        - {x: -19, y: -27}
+        - {x: 21, y: 27}
+      - - {x: 32, y: 9}
+        - {x: 30, y: -27}
+        - {x: 21, y: 27}
+      - - {x: 32, y: -25}
+        - {x: 30, y: -27}
+        - {x: 32, y: 9}
+      physicsShape:
+      - - {x: 30, y: 9}
+        - {x: 15, y: 23}
+        - {x: 5, y: 27}
+        - {x: -20, y: 27}
+        - {x: -20, y: 26}
+        - {x: -21, y: 22}
+        - {x: -32, y: 20}
+        - {x: -32, y: 3}
+        - {x: -28, y: -5}
+        - {x: -21, y: -17}
+        - {x: -11, y: -21}
+        - {x: -3, y: -20}
+        - {x: 7, y: -24}
+        - {x: 18, y: -24}
+        - {x: 28, y: -18}
+        - {x: 32, y: -7}
+        - {x: 32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower6_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 434
+        width: 142
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -30}
+        - {x: -71, y: -11}
+        - {x: -69, y: -34}
+      - - {x: 3, y: 30}
+        - {x: -69, y: -34}
+        - {x: -71, y: -11}
+      - - {x: 67, y: -34}
+        - {x: -69, y: -34}
+        - {x: 3, y: 30}
+      - - {x: 12, y: 34}
+        - {x: 67, y: -34}
+        - {x: 3, y: 30}
+      - - {x: 57, y: 34}
+        - {x: 67, y: -34}
+        - {x: 12, y: 34}
+      - - {x: 71, y: 29}
+        - {x: 67, y: -34}
+        - {x: 57, y: 34}
+      - - {x: 71, y: -24}
+        - {x: 67, y: -34}
+        - {x: 71, y: 29}
+      physicsShape:
+      - - {x: 66.99999, y: 4}
+        - {x: 66.99999, y: 8}
+        - {x: 64, y: 25}
+        - {x: 50, y: 34}
+        - {x: 32, y: 34}
+        - {x: 21, y: 32}
+        - {x: 14, y: 30}
+        - {x: 5, y: 21}
+        - {x: -3, y: 5}
+        - {x: -7, y: -8}
+        - {x: -31, y: -16}
+        - {x: -49, y: -16}
+        - {x: -71, y: -12}
+        - {x: -71, y: -20}
+        - {x: -62, y: -25}
+        - {x: -37, y: -26}
+        - {x: -8, y: -21}
+        - {x: 7, y: -24}
+        - {x: 20, y: -29}
+        - {x: 48, y: -29}
+        - {x: 56, y: -25}
+        - {x: 57, y: -13}
+        - {x: 64, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 440
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 385, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220, y: -76}
+        - {x: -220, y: -56}
+        - {x: -215, y: -79}
+      - - {x: -211, y: -43}
+        - {x: -215, y: -79}
+        - {x: -220, y: -56}
+      - - {x: -128, y: -79}
+        - {x: -215, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -188, y: -24}
+        - {x: -128, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -145, y: 38}
+        - {x: -128, y: -79}
+        - {x: -188, y: -24}
+      - - {x: -141, y: 55}
+        - {x: -128, y: -79}
+        - {x: -145, y: 38}
+      - - {x: -139, y: 65}
+        - {x: -128, y: -79}
+        - {x: -141, y: 55}
+      - - {x: -129, y: 79}
+        - {x: -128, y: -79}
+        - {x: -139, y: 65}
+      - - {x: -66, y: -44}
+        - {x: -128, y: -79}
+        - {x: -129, y: 79}
+      - - {x: 220, y: 79}
+        - {x: -66, y: -44}
+        - {x: -129, y: 79}
+      - - {x: -115, y: -77}
+        - {x: -128, y: -79}
+        - {x: -66, y: -44}
+      - - {x: -98, y: -74}
+        - {x: -115, y: -77}
+        - {x: -66, y: -44}
+      - - {x: -75, y: -63}
+        - {x: -98, y: -74}
+        - {x: -66, y: -44}
+      - - {x: -66, y: -56}
+        - {x: -75, y: -63}
+        - {x: -66, y: -44}
+      - - {x: 220, y: -43}
+        - {x: -66, y: -44}
+        - {x: 220, y: 79}
+      - - {x: -220, y: 7}
+        - {x: -220, y: 19}
+        - {x: -188, y: -24}
+      - - {x: -217, y: 30}
+        - {x: -188, y: -24}
+        - {x: -220, y: 19}
+      - - {x: -213, y: 33}
+        - {x: -188, y: -24}
+        - {x: -217, y: 30}
+      - - {x: -145, y: 38}
+        - {x: -188, y: -24}
+        - {x: -213, y: 33}
+      physicsShape:
+      - - {x: 220, y: -25}
+        - {x: 220, y: 79}
+        - {x: -129, y: 79}
+        - {x: -139, y: 66}
+        - {x: -135, y: 39}
+        - {x: -213, y: 33}
+        - {x: -216, y: 23}
+        - {x: -176, y: -14}
+        - {x: -217, y: -53}
+        - {x: -217, y: -59}
+        - {x: -212, y: -63}
+        - {x: -131, y: -63}
+        - {x: -89, y: -53}
+        - {x: -70, y: -40}
+        - {x: -72.99999, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower4_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 378
+        width: 136
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -24}
+        - {x: -68, y: 0}
+        - {x: -15, y: -33}
+      - - {x: 10, y: 33}
+        - {x: -15, y: -33}
+        - {x: -68, y: 0}
+      - - {x: 66, y: -33}
+        - {x: -15, y: -33}
+        - {x: 10, y: 33}
+      - - {x: 68, y: 33}
+        - {x: 66, y: -33}
+        - {x: 10, y: 33}
+      - - {x: 68, y: -26}
+        - {x: 66, y: -33}
+        - {x: 68, y: 33}
+      physicsShape:
+      - - {x: 68, y: 21}
+        - {x: 56, y: 33}
+        - {x: 38, y: 33}
+        - {x: 32, y: 30}
+        - {x: 21, y: 30}
+        - {x: 12, y: 22}
+        - {x: 4, y: 9.999999}
+        - {x: -1, y: 0}
+        - {x: -9, y: -12}
+        - {x: -35, y: -16}
+        - {x: -36, y: -18}
+        - {x: -36, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -26}
+        - {x: 30, y: -28}
+        - {x: 58, y: -28}
+        - {x: 60, y: -22}
+        - {x: 60, y: -16}
+        - {x: 68, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower4_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 152
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: -31}
+        - {x: -76, y: 51}
+        - {x: -63, y: -44}
+      - - {x: -75, y: 57}
+        - {x: -63, y: -44}
+        - {x: -76, y: 51}
+      - - {x: 57, y: 57}
+        - {x: -63, y: -44}
+        - {x: -75, y: 57}
+      - - {x: -35, y: -57}
+        - {x: -63, y: -44}
+        - {x: 57, y: 57}
+      - - {x: 57, y: -57}
+        - {x: -35, y: -57}
+        - {x: 57, y: 57}
+      - - {x: 76, y: -51}
+        - {x: 57, y: -57}
+        - {x: 57, y: 57}
+      - - {x: 70, y: 34}
+        - {x: 76, y: -51}
+        - {x: 57, y: 57}
+      - - {x: 76, y: 16}
+        - {x: 76, y: -51}
+        - {x: 70, y: 34}
+      physicsShape:
+      - - {x: 74, y: -31}
+        - {x: 75, y: -27}
+        - {x: 75, y: -7}
+        - {x: 71, y: 3}
+        - {x: 66.99999, y: 9}
+        - {x: 61, y: 28}
+        - {x: 56, y: 34}
+        - {x: 47, y: 40}
+        - {x: 27, y: 42}
+        - {x: 15, y: 57}
+        - {x: -9, y: 57}
+        - {x: -19, y: 47}
+        - {x: -54, y: 47}
+        - {x: -61, y: 40}
+        - {x: -57, y: 31}
+        - {x: -47, y: 27}
+        - {x: -63, y: 19}
+        - {x: -71, y: 13}
+        - {x: -75, y: 5}
+        - {x: -75, y: -4}
+        - {x: -54, y: -9.999999}
+        - {x: -60, y: -18}
+        - {x: -63, y: -30}
+        - {x: -61, y: -33}
+        - {x: -46, y: -32}
+        - {x: -36, y: -40}
+        - {x: -26, y: -40}
+        - {x: -19, y: -38}
+        - {x: -7, y: -39}
+        - {x: 5, y: -50}
+        - {x: 9.999999, y: -50}
+        - {x: 24, y: -39}
+        - {x: 39, y: -50}
+        - {x: 44, y: -50}
+        - {x: 52, y: -47}
+        - {x: 52, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower3_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 166
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -37}
+        - {x: -83, y: 42}
+        - {x: -50, y: -73}
+      - - {x: -56, y: 73}
+        - {x: -50, y: -73}
+        - {x: -83, y: 42}
+      - - {x: 61, y: 73}
+        - {x: -50, y: -73}
+        - {x: -56, y: 73}
+      - - {x: 61, y: -73}
+        - {x: -50, y: -73}
+        - {x: 61, y: 73}
+      - - {x: 65, y: -72}
+        - {x: 61, y: -73}
+        - {x: 61, y: 73}
+      - - {x: 83, y: 28}
+        - {x: 65, y: -72}
+        - {x: 61, y: 73}
+      - - {x: 83, y: -45}
+        - {x: 65, y: -72}
+        - {x: 83, y: 28}
+      physicsShape:
+      - - {x: 56, y: -57}
+        - {x: 63, y: -47}
+        - {x: 63, y: -36}
+        - {x: 51, y: -20}
+        - {x: 72, y: -11}
+        - {x: 82, y: 0}
+        - {x: 82, y: 26}
+        - {x: 69, y: 38}
+        - {x: 55, y: 37}
+        - {x: 44, y: 32}
+        - {x: 50, y: 42}
+        - {x: 50, y: 60}
+        - {x: 38, y: 72.99999}
+        - {x: 4, y: 72.99999}
+        - {x: -5, y: 56}
+        - {x: -6, y: 41}
+        - {x: -14, y: 57}
+        - {x: -28, y: 66.99999}
+        - {x: -41, y: 66.99999}
+        - {x: -55, y: 58}
+        - {x: -64, y: 50}
+        - {x: -56, y: 28}
+        - {x: -66.99999, y: 27}
+        - {x: -76, y: 22}
+        - {x: -83, y: 7}
+        - {x: -83, y: -8}
+        - {x: -82, y: -12}
+        - {x: -63, y: -26}
+        - {x: -45, y: -29}
+        - {x: -51, y: -38}
+        - {x: -47, y: -55}
+        - {x: -38, y: -63}
+        - {x: -28, y: -66}
+        - {x: -9, y: -66}
+        - {x: 1, y: -63}
+        - {x: 26, y: -65}
+        - {x: 42, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_leaf_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 150.0267
+        width: 112
+        height: 163.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -81.01337}
+        - {x: -56, y: 76.98663}
+        - {x: -55, y: -82.01337}
+      - - {x: -41, y: 81.98663}
+        - {x: -55, y: -82.01337}
+        - {x: -56, y: 76.98663}
+      - - {x: -24, y: -82.01337}
+        - {x: -55, y: -82.01337}
+        - {x: -41, y: 81.98663}
+      - - {x: 55, y: 81.98663}
+        - {x: -24, y: -82.01337}
+        - {x: -41, y: 81.98663}
+      - - {x: 49, y: -21.01337}
+        - {x: -24, y: -82.01337}
+        - {x: 55, y: 81.98663}
+      - - {x: 56, y: -12.01337}
+        - {x: 49, y: -21.01337}
+        - {x: 55, y: 81.98663}
+      - - {x: 56, y: 76.98663}
+        - {x: 56, y: -12.01337}
+        - {x: 55, y: 81.98663}
+      physicsShape:
+      - - {x: 32, y: -14.01337}
+        - {x: 53, y: 1.986626}
+        - {x: 53, y: 5.986626}
+        - {x: 51, y: 8.986626}
+        - {x: 40, y: 11.98663}
+        - {x: 34, y: 12.98663}
+        - {x: 25, y: 12.98663}
+        - {x: 23, y: 11.98663}
+        - {x: 30, y: 14.98662}
+        - {x: 36, y: 17.98663}
+        - {x: 51, y: 35.98663}
+        - {x: 53, y: 45.98662}
+        - {x: 53, y: 69.98663}
+        - {x: 47, y: 72.98662}
+        - {x: 25, y: 59.98662}
+        - {x: 1, y: 81.98663}
+        - {x: -8, y: 81.98663}
+        - {x: -21, y: 60.98663}
+        - {x: -24, y: 51.98663}
+        - {x: -37, y: 50.98663}
+        - {x: -36, y: 31.98663}
+        - {x: -27, y: 18.98663}
+        - {x: -39, y: 15.98663}
+        - {x: -34, y: 0.9866257}
+        - {x: -23, y: -12.01337}
+        - {x: -11, y: -14.01337}
+        - {x: -35, y: -46.01337}
+        - {x: -53, y: -62.01337}
+        - {x: -53, y: -66.01337}
+        - {x: -51, y: -69.01337}
+        - {x: -42, y: -71.01337}
+        - {x: -40, y: -71.01337}
+        - {x: -37, y: -68.01337}
+        - {x: 3, y: -11.01337}
+        - {x: 11, y: -14.01337}
+        - {x: -8, y: 5.986626}
+        - {x: -8, y: 6.986626}
+        - {x: -12, y: 11.98663}
+        - {x: -15, y: 11.98663}
+        - {x: -11, y: 8.986626}
+        - {x: -9, y: 8.986626}
+        - {x: -6, y: 6.986626}
+        - {x: -3, y: 5.986626}
+        - {x: -7, y: 1.986626}
+        - {x: -6, y: 0.9866257}
+        - {x: -5, y: 1.986626}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower3_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 268
+        width: 116
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -34}
+        - {x: -58, y: 26}
+        - {x: -40, y: -53}
+      - - {x: -50, y: 53}
+        - {x: -40, y: -53}
+        - {x: -58, y: 26}
+      - - {x: 31, y: 53}
+        - {x: -40, y: -53}
+        - {x: -50, y: 53}
+      - - {x: 32, y: -53}
+        - {x: -40, y: -53}
+        - {x: 31, y: 53}
+      - - {x: 58, y: 26}
+        - {x: 32, y: -53}
+        - {x: 31, y: 53}
+      - - {x: 58, y: -43}
+        - {x: 32, y: -53}
+        - {x: 58, y: 26}
+      physicsShape:
+      - - {x: 56, y: -9.999999}
+        - {x: 56, y: 25}
+        - {x: 38, y: 31}
+        - {x: 35, y: 45}
+        - {x: 29, y: 52}
+        - {x: 23, y: 53}
+        - {x: 6, y: 53}
+        - {x: -2, y: 46}
+        - {x: -7, y: 37}
+        - {x: -15, y: 48}
+        - {x: -22, y: 52}
+        - {x: -40, y: 47}
+        - {x: -49, y: 40}
+        - {x: -44, y: 20}
+        - {x: -35, y: 16}
+        - {x: -34, y: 16}
+        - {x: -39, y: 16}
+        - {x: -40, y: 17}
+        - {x: -53, y: 17}
+        - {x: -58, y: 11}
+        - {x: -58, y: 0}
+        - {x: -57, y: -9.999999}
+        - {x: -50, y: -17}
+        - {x: -29, y: -43}
+        - {x: -17, y: -47}
+        - {x: 7, y: -47}
+        - {x: 20, y: -43}
+        - {x: 33, y: -40}
+        - {x: 50, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower3_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 506
+        width: 82
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -33}
+        - {x: -41, y: -15}
+        - {x: 41, y: -33}
+      - - {x: -22, y: 19}
+        - {x: 41, y: -33}
+        - {x: -41, y: -15}
+      - - {x: -5, y: 32}
+        - {x: 41, y: -33}
+        - {x: -22, y: 19}
+      - - {x: 5, y: 31}
+        - {x: 41, y: -33}
+        - {x: -5, y: 32}
+      - - {x: 9, y: 33}
+        - {x: 41, y: -33}
+        - {x: 5, y: 31}
+      - - {x: 33, y: 33}
+        - {x: 41, y: -33}
+        - {x: 9, y: 33}
+      - - {x: 41, y: 30}
+        - {x: 41, y: -33}
+        - {x: 33, y: 33}
+      physicsShape:
+      - - {x: 41, y: 22}
+        - {x: 29, y: 33}
+        - {x: 9.999999, y: 33}
+        - {x: 1, y: 28}
+        - {x: -6, y: 32}
+        - {x: -18, y: 18}
+        - {x: -23, y: 9.999999}
+        - {x: -31, y: -8}
+        - {x: -31, y: -19}
+        - {x: -30, y: -21}
+        - {x: -11, y: -25}
+        - {x: 1, y: -28}
+        - {x: 31, y: -28}
+        - {x: 33, y: -22}
+        - {x: 33, y: -16}
+        - {x: 41, y: -9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower5_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 202
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -64}
+        - {x: -101, y: 70}
+        - {x: -60, y: -75}
+      - - {x: -98, y: 75}
+        - {x: -60, y: -75}
+        - {x: -101, y: 70}
+      - - {x: 101, y: 75}
+        - {x: -60, y: -75}
+        - {x: -98, y: 75}
+      - - {x: 19, y: -75}
+        - {x: -60, y: -75}
+        - {x: 101, y: 75}
+      - - {x: 93, y: -54}
+        - {x: 19, y: -75}
+        - {x: 101, y: 75}
+      - - {x: 101, y: -36}
+        - {x: 93, y: -54}
+        - {x: 101, y: 75}
+      physicsShape:
+      - - {x: 23, y: -55}
+        - {x: 33, y: -56}
+        - {x: 41, y: -57}
+        - {x: 48, y: -49}
+        - {x: 54, y: -52}
+        - {x: 61, y: -36}
+        - {x: 82, y: -37}
+        - {x: 89, y: -35}
+        - {x: 88, y: -23}
+        - {x: 72, y: -7}
+        - {x: 87, y: -9.999999}
+        - {x: 98.99999, y: -3}
+        - {x: 98.99999, y: 2}
+        - {x: 97.99999, y: 8}
+        - {x: 75, y: 22}
+        - {x: 57, y: 21}
+        - {x: 85, y: 33}
+        - {x: 78, y: 50}
+        - {x: 48, y: 49}
+        - {x: 41, y: 58}
+        - {x: 38, y: 66}
+        - {x: 32, y: 75}
+        - {x: 16, y: 66.99999}
+        - {x: 8, y: 75}
+        - {x: -4, y: 75}
+        - {x: -12, y: 71}
+        - {x: -17, y: 75}
+        - {x: -31, y: 75}
+        - {x: -35, y: 65}
+        - {x: -48, y: 64}
+        - {x: -74, y: 58}
+        - {x: -79.99999, y: 53}
+        - {x: -83, y: 43}
+        - {x: -97, y: 32}
+        - {x: -98.99999, y: 27}
+        - {x: -75, y: 9.999999}
+        - {x: -88, y: 8}
+        - {x: -98.99999, y: -1}
+        - {x: -100, y: -8}
+        - {x: -97.99999, y: -12}
+        - {x: -69, y: -9.999999}
+        - {x: -77, y: -16}
+        - {x: -91, y: -41}
+        - {x: -84, y: -44}
+        - {x: -60, y: -47}
+        - {x: -57, y: -53}
+        - {x: -42, y: -57}
+        - {x: -30, y: -56}
+        - {x: -15, y: -66.99999}
+        - {x: -12, y: -66}
+        - {x: -3, y: -65}
+        - {x: 6, y: -57}
+        - {x: 14, y: -50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: record_image_flower4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 440
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 366, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220, y: -76}
+        - {x: -220, y: -56}
+        - {x: -215, y: -79}
+      - - {x: -211, y: -43}
+        - {x: -215, y: -79}
+        - {x: -220, y: -56}
+      - - {x: -128, y: -79}
+        - {x: -215, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -188, y: -24}
+        - {x: -128, y: -79}
+        - {x: -211, y: -43}
+      - - {x: -145, y: 38}
+        - {x: -128, y: -79}
+        - {x: -188, y: -24}
+      - - {x: -141, y: 55}
+        - {x: -128, y: -79}
+        - {x: -145, y: 38}
+      - - {x: -139, y: 65}
+        - {x: -128, y: -79}
+        - {x: -141, y: 55}
+      - - {x: -129, y: 79}
+        - {x: -128, y: -79}
+        - {x: -139, y: 65}
+      - - {x: -66, y: -44}
+        - {x: -128, y: -79}
+        - {x: -129, y: 79}
+      - - {x: 220, y: 79}
+        - {x: -66, y: -44}
+        - {x: -129, y: 79}
+      - - {x: -115, y: -77}
+        - {x: -128, y: -79}
+        - {x: -66, y: -44}
+      - - {x: -98, y: -74}
+        - {x: -115, y: -77}
+        - {x: -66, y: -44}
+      - - {x: -75, y: -63}
+        - {x: -98, y: -74}
+        - {x: -66, y: -44}
+      - - {x: -66, y: -56}
+        - {x: -75, y: -63}
+        - {x: -66, y: -44}
+      - - {x: 220, y: -43}
+        - {x: -66, y: -44}
+        - {x: 220, y: 79}
+      - - {x: -220, y: 7}
+        - {x: -220, y: 19}
+        - {x: -188, y: -24}
+      - - {x: -217, y: 30}
+        - {x: -188, y: -24}
+        - {x: -220, y: 19}
+      - - {x: -213, y: 33}
+        - {x: -188, y: -24}
+        - {x: -217, y: 30}
+      - - {x: -145, y: 38}
+        - {x: -188, y: -24}
+        - {x: -213, y: 33}
+      physicsShape:
+      - - {x: 220, y: -25}
+        - {x: 220, y: 79}
+        - {x: -129, y: 79}
+        - {x: -139, y: 66}
+        - {x: -135, y: 39}
+        - {x: -213, y: 33}
+        - {x: -216, y: 23}
+        - {x: -176, y: -14}
+        - {x: -217, y: -53}
+        - {x: -217, y: -59}
+        - {x: -212, y: -63}
+        - {x: -131, y: -63}
+        - {x: -89, y: -53}
+        - {x: -70, y: -40}
+        - {x: -72.99999, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      record_image_flower3: 21300026
+      record_image_flower3_1: 21300024
+      record_image_flower3_2: 21300034
+      record_image_flower3_3: 21300002
+      record_image_flower4: 21300006
+      record_image_flower4_1: 21300010
+      record_image_flower4_2: 21300020
+      record_image_flower4_3: 21300000
+      record_image_flower5: 21300016
+      record_image_flower5_1: 21300004
+      record_image_flower5_2: 21300032
+      record_image_flower5_3: 21300022
+      record_image_flower6: 21300014
+      record_image_flower6_1: 21300028
+      record_image_flower6_2: 21300012
+      record_image_flower6_3: 21300018
+      record_image_leaf_2: 21300030
+      record_image_leaf_3: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: atlas/breakrecord.ab
+  assetBundleVariant: 

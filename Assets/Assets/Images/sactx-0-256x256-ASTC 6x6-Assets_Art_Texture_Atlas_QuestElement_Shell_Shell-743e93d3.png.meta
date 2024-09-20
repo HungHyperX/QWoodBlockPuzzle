@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: efd74847f30c4ac38e84223808e95278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cube8_shell_2
+  - first:
+      213: 21300002
+    second: cube8_shell_3
+  - first:
+      213: 21300004
+    second: cube8_shell_4
+  - first:
+      213: 21300006
+    second: cube8_shell_5
+  - first:
+      213: 21300008
+    second: cube8_shell_1
+  - first:
+      213: 21300010
+    second: cube8_shell_0
+  - first:
+      213: 21300012
+    second: cube8_pearl
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 50
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cube8_shell_3
+      rect:
+        serializedVersion: 2
+        x: 100.0761
+        y: 48.01291
+        width: 97.84776
+        height: 39.91097
+      alignment: 9
+      pivot: {x: 0.49489, y: 0.2126505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -19.9684}
+        - {x: -49, y: 6.031603}
+        - {x: 19, y: -19.9684}
+      - - {x: -38, y: 20.0316}
+        - {x: 19, y: -19.9684}
+        - {x: -49, y: 6.031603}
+      - - {x: 29, y: 20.0316}
+        - {x: 19, y: -19.9684}
+        - {x: -38, y: 20.0316}
+      - - {x: 49, y: -18.9684}
+        - {x: 19, y: -19.9684}
+        - {x: 29, y: 20.0316}
+      - - {x: 49, y: 16.0316}
+        - {x: 49, y: -18.9684}
+        - {x: 29, y: 20.0316}
+      physicsShape:
+      - - {x: 46, y: -12.9684}
+        - {x: 46, y: -2.968397}
+        - {x: 32, y: 15.0316}
+        - {x: 14, y: 19.0316}
+        - {x: 5.999996, y: 20.0316}
+        - {x: -9.000004, y: 20.0316}
+        - {x: -30, y: 15.0316}
+        - {x: -44, y: 3.031603}
+        - {x: -46, y: -3.968398}
+        - {x: -46, y: -13.9684}
+        - {x: -44, y: -15.9684}
+        - {x: -40, y: -17.9684}
+        - {x: -28, y: -17.9684}
+        - {x: -2.000004, y: -11.9684}
+        - {x: 27, y: -16.9684}
+        - {x: 32.99999, y: -17.9684}
+        - {x: 40, y: -17.9684}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_shell_0
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 63.02675
+        width: 90.89713
+        height: 57.93034
+      alignment: 9
+      pivot: {x: 0.488727, y: 0.8367506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.52468, y: -2.991922}
+        - {x: -45.52468, y: 18.00808}
+        - {x: -35.52468, y: -15.99192}
+      - - {x: -41.52468, y: 29.00808}
+        - {x: -35.52468, y: -15.99192}
+        - {x: -45.52468, y: 18.00808}
+      - - {x: 25.47532, y: 29.00808}
+        - {x: -35.52468, y: -15.99192}
+        - {x: -41.52468, y: 29.00808}
+      - - {x: -23.52468, y: -28.99192}
+        - {x: -35.52468, y: -15.99192}
+        - {x: 25.47532, y: 29.00808}
+      - - {x: 26.47532, y: -28.99192}
+        - {x: -23.52468, y: -28.99192}
+        - {x: 25.47532, y: 29.00808}
+      - - {x: 45.47532, y: 18.00808}
+        - {x: 26.47532, y: -28.99192}
+        - {x: 25.47532, y: 29.00808}
+      - - {x: 45.47532, y: -1.991922}
+        - {x: 26.47532, y: -28.99192}
+        - {x: 45.47532, y: 18.00808}
+      physicsShape:
+      - - {x: 43.47532, y: 1.008078}
+        - {x: 43.47532, y: 17.00808}
+        - {x: 28.47531, y: 27.00808}
+        - {x: 11.47532, y: 29.00808}
+        - {x: -21.52468, y: 29.00808}
+        - {x: -44.52468, y: 19.00808}
+        - {x: -44.52468, y: -1.99192}
+        - {x: -25.52468, y: -21.99192}
+        - {x: -8.524685, y: -28.99192}
+        - {x: 6.475315, y: -28.99192}
+        - {x: 14.47532, y: -26.99192}
+        - {x: 23.47531, y: -21.99192}
+        - {x: 31.47532, y: -14.99192}
+        - {x: 41.47532, y: -10.99192}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_shell_4
+      rect:
+        serializedVersion: 2
+        x: 100.0429
+        y: 0.02675247
+        width: 97.94418
+        height: 43.89713
+      alignment: 9
+      pivot: {x: 0.4947419, y: 0.1930251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.015, y: -21.97532}
+        - {x: -49.015, y: 3.024683}
+        - {x: 48.985, y: -21.97532}
+      - - {x: -38.015, y: 18.02468}
+        - {x: 48.985, y: -21.97532}
+        - {x: -49.015, y: 3.024683}
+      - - {x: -22.015, y: 22.02468}
+        - {x: 48.985, y: -21.97532}
+        - {x: -38.015, y: 18.02468}
+      - - {x: 17.985, y: 22.02468}
+        - {x: 48.985, y: -21.97532}
+        - {x: -22.015, y: 22.02468}
+      - - {x: 45.985, y: 5.024683}
+        - {x: 48.985, y: -21.97532}
+        - {x: 17.985, y: 22.02468}
+      - - {x: 48.985, y: -5.975317}
+        - {x: 48.985, y: -21.97532}
+        - {x: 45.985, y: 5.024683}
+      physicsShape:
+      - - {x: 45.985, y: -19.97532}
+        - {x: 45.985, y: -7.975317}
+        - {x: 40.985, y: 2.024683}
+        - {x: 17.985, y: 20.02468}
+        - {x: 6.985, y: 21.02468}
+        - {x: -11.015, y: 21.02468}
+        - {x: -24.015, y: 17.02468}
+        - {x: -32.015, y: 12.02468}
+        - {x: -42.015, y: 3.024683}
+        - {x: -47.015, y: -8.975317}
+        - {x: -47.015, y: -18.97532}
+        - {x: -41.015, y: -21.97532}
+        - {x: -25.015, y: -21.97532}
+        - {x: -8.014999, y: -16.97532}
+        - {x: 17.985, y: -16.97532}
+        - {x: 24.985, y: -21.97532}
+        - {x: 39.985, y: -21.97532}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_shell_1
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 125.0761
+        width: 90.89713
+        height: 52.84776
+      alignment: 9
+      pivot: {x: 0.488727, y: 0.4243109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.52468, y: -24.5}
+        - {x: -45.52468, y: 14.5}
+        - {x: -38.52468, y: -26.5}
+      - - {x: -19.52468, y: 26.5}
+        - {x: -38.52468, y: -26.5}
+        - {x: -45.52468, y: 14.5}
+      - - {x: 32.47532, y: -26.5}
+        - {x: -38.52468, y: -26.5}
+        - {x: -19.52468, y: 26.5}
+      - - {x: 25.47532, y: 26.5}
+        - {x: 32.47532, y: -26.5}
+        - {x: -19.52468, y: 26.5}
+      - - {x: 45.47532, y: 8.499998}
+        - {x: 32.47532, y: -26.5}
+        - {x: 25.47532, y: 26.5}
+      - - {x: 45.47532, y: -20.5}
+        - {x: 32.47532, y: -26.5}
+        - {x: 45.47532, y: 8.499998}
+      physicsShape:
+      - - {x: 40.47532, y: 8.499998}
+        - {x: 24.47532, y: 23.5}
+        - {x: 7.475315, y: 26.5}
+        - {x: -7.524685, y: 26.5}
+        - {x: -21.52468, y: 23.5}
+        - {x: -30.52468, y: 19.5}
+        - {x: -45.52468, y: 0.4999981}
+        - {x: -45.52468, y: -17.5}
+        - {x: -33.52468, y: -23.5}
+        - {x: -15.52468, y: -25.5}
+        - {x: 16.47532, y: -25.5}
+        - {x: 36.47532, y: -21.5}
+        - {x: 45.47532, y: -15.5}
+        - {x: 45.47532, y: -2.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_shell_5
+      rect:
+        serializedVersion: 2
+        x: 0.003194809
+        y: 0.07612228
+        width: 95.97005
+        height: 58.84776
+      alignment: 9
+      pivot: {x: 0.4949127, y: 0.177133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.98822, y: -28.5}
+        - {x: -47.98822, y: 2.499998}
+        - {x: -41.98822, y: -29.5}
+      - - {x: -43.98822, y: 25.5}
+        - {x: -41.98822, y: -29.5}
+        - {x: -47.98822, y: 2.499998}
+      - - {x: -28.98822, y: 29.5}
+        - {x: -41.98822, y: -29.5}
+        - {x: -43.98822, y: 25.5}
+      - - {x: 48.01178, y: -29.5}
+        - {x: -41.98822, y: -29.5}
+        - {x: -28.98822, y: 29.5}
+      - - {x: 26.01178, y: 29.5}
+        - {x: 48.01178, y: -29.5}
+        - {x: -28.98822, y: 29.5}
+      - - {x: 48.01178, y: 14.5}
+        - {x: 48.01178, y: -29.5}
+        - {x: 26.01178, y: 29.5}
+      physicsShape:
+      - - {x: 36.01177, y: 11.5}
+        - {x: 15.01178, y: 27.5}
+        - {x: 8.011776, y: 29.5}
+        - {x: -1.988224, y: 29.5}
+        - {x: -10.98822, y: 28.5}
+        - {x: -16.98822, y: 24.5}
+        - {x: -22.98822, y: 18.5}
+        - {x: -32.98822, y: 13.5}
+        - {x: -40.98822, y: 5.499996}
+        - {x: -45.98822, y: -12.5}
+        - {x: -45.98822, y: -18.5}
+        - {x: -44.98822, y: -23.5}
+        - {x: -40.98822, y: -28.5}
+        - {x: -34.98822, y: -28.5}
+        - {x: -5.988224, y: -23.5}
+        - {x: 16.01178, y: -28.5}
+        - {x: 42.01178, y: -28.5}
+        - {x: 47.01178, y: -21.5}
+        - {x: 47.01178, y: -10.5}
+        - {x: 44.01178, y: 3.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_pearl
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 92
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -16}
+        - {x: -19, y: 16}
+        - {x: -17, y: -19}
+      - - {x: -11, y: 19}
+        - {x: -17, y: -19}
+        - {x: -19, y: 16}
+      - - {x: 12, y: -19}
+        - {x: -17, y: -19}
+        - {x: -11, y: 19}
+      - - {x: 13, y: 19}
+        - {x: 12, y: -19}
+        - {x: -11, y: 19}
+      - - {x: 19, y: -11}
+        - {x: 12, y: -19}
+        - {x: 13, y: 19}
+      - - {x: 19, y: 12}
+        - {x: 19, y: -11}
+        - {x: 13, y: 19}
+      physicsShape:
+      - - {x: 9, y: 19}
+        - {x: -17, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -15}
+        - {x: -9.999999, y: -19}
+        - {x: 14, y: -19}
+        - {x: 19, y: -12}
+        - {x: 19, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cube8_shell_2
+      rect:
+        serializedVersion: 2
+        x: 0.03368473
+        y: 182.0129
+        width: 93.92341
+        height: 48.91097
+      alignment: 9
+      pivot: {x: 0.4840786, y: 0.3984196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.99539, y: -24.4684}
+        - {x: -46.99539, y: 24.5316}
+        - {x: 28.00461, y: -24.4684}
+      - - {x: 38.00461, y: 24.5316}
+        - {x: 28.00461, y: -24.4684}
+        - {x: -46.99539, y: 24.5316}
+      - - {x: 47.00461, y: -20.4684}
+        - {x: 28.00461, y: -24.4684}
+        - {x: 38.00461, y: 24.5316}
+      - - {x: 47.00461, y: 5.531603}
+        - {x: 47.00461, y: -20.4684}
+        - {x: 38.00461, y: 24.5316}
+      physicsShape:
+      - - {x: 21.00461, y: 23.5316}
+        - {x: 11.00461, y: 24.5316}
+        - {x: -11.99539, y: 24.5316}
+        - {x: -26.99539, y: 19.5316}
+        - {x: -33.99539, y: 14.5316}
+        - {x: -39.99539, y: 8.531602}
+        - {x: -44.99539, y: 1.531603}
+        - {x: -44.99539, y: -14.4684}
+        - {x: -31.99539, y: -22.4684}
+        - {x: 33.00461, y: -22.4684}
+        - {x: 44.00461, y: -16.4684}
+        - {x: 44.00461, y: 7.531603}
+        - {x: 43.00461, y: 10.5316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cube8_pearl: 21300012
+      cube8_shell_0: 21300010
+      cube8_shell_1: 21300008
+      cube8_shell_2: 21300000
+      cube8_shell_3: 21300002
+      cube8_shell_4: 21300004
+      cube8_shell_5: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: atlas/questelement/shell/shell.ab
+  assetBundleVariant: 

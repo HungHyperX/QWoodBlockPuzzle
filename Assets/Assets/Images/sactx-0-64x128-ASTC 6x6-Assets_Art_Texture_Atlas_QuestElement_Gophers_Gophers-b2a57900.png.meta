@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: b95837d1f16b4be38fef2217a0379970
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: temp_eye
+  - first:
+      213: 21300002
+    second: temp_eye1
+  - first:
+      213: 21300004
+    second: temp_eye2
+  - first:
+      213: 21300006
+    second: temp_eye3
+  - first:
+      213: 21300008
+    second: temp_eye4
+  - first:
+      213: 21300010
+    second: temp_eye5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 50
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: temp_eye5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: 10, y: 9}
+        - {x: -10, y: -9}
+      - - {x: -10, y: -9}
+        - {x: 10, y: 9}
+        - {x: 10, y: -9}
+      physicsShape:
+      - - {x: 2, y: 7}
+        - {x: -7, y: 6}
+        - {x: -8, y: 2}
+        - {x: -8, y: -3}
+        - {x: 1, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 5}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_eye4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: 10, y: 9}
+        - {x: -10, y: -9}
+      - - {x: -10, y: -9}
+        - {x: 10, y: 9}
+        - {x: 10, y: -9}
+      physicsShape:
+      - - {x: -2, y: 7}
+        - {x: -6, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: -6}
+        - {x: -6, y: -7}
+        - {x: 1, y: -7}
+        - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_eye
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11.5}
+        - {x: 10, y: 11.5}
+        - {x: -10, y: -11.5}
+      - - {x: -10, y: -11.5}
+        - {x: 10, y: 11.5}
+        - {x: 10, y: -11.5}
+      physicsShape:
+      - - {x: 3, y: 11.5}
+        - {x: -5, y: 11.5}
+        - {x: -9, y: 6.5}
+        - {x: -9.999999, y: 3.5}
+        - {x: -9.999999, y: -2.5}
+        - {x: -9, y: -5.5}
+        - {x: -6, y: -10.5}
+        - {x: 3, y: -10.5}
+        - {x: 9.999999, y: -8.5}
+        - {x: 9.999999, y: 3.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_eye1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10.5}
+        - {x: 10, y: 10.5}
+        - {x: -10, y: -10.5}
+      - - {x: -10, y: -10.5}
+        - {x: 10, y: 10.5}
+        - {x: 10, y: -10.5}
+      physicsShape:
+      - - {x: -9, y: 8.5}
+        - {x: -9.999999, y: 3.5}
+        - {x: -9.999999, y: -5.5}
+        - {x: -7, y: -6.5}
+        - {x: 9, y: -6.5}
+        - {x: 9.999999, y: -4.5}
+        - {x: 9.999999, y: 6.5}
+        - {x: 7, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_eye3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10.5}
+        - {x: 10, y: 10.5}
+        - {x: -10, y: -10.5}
+      - - {x: -10, y: -10.5}
+        - {x: 10, y: 10.5}
+        - {x: 10, y: -10.5}
+      physicsShape:
+      - - {x: 3, y: 5.5}
+        - {x: -2, y: 5.5}
+        - {x: -8, y: 2.5}
+        - {x: -8, y: -1.5}
+        - {x: -6, y: -4.5}
+        - {x: 7, y: -4.5}
+        - {x: 9, y: -2.5}
+        - {x: 9, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_eye2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10.5}
+        - {x: 10, y: 10.5}
+        - {x: -10, y: -10.5}
+      - - {x: -10, y: -10.5}
+        - {x: 10, y: 10.5}
+        - {x: 10, y: -10.5}
+      physicsShape:
+      - - {x: -8, y: 6.5}
+        - {x: -9.999999, y: 2.5}
+        - {x: -9.999999, y: -2.5}
+        - {x: -8, y: -6.5}
+        - {x: 4, y: -6.5}
+        - {x: 9.999999, y: -5.5}
+        - {x: 9.999999, y: 5.5}
+        - {x: 6, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      temp_eye: 21300000
+      temp_eye1: 21300002
+      temp_eye2: 21300004
+      temp_eye3: 21300006
+      temp_eye4: 21300008
+      temp_eye5: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: atlas/questelement/gophers/gophers.ab
+  assetBundleVariant: 
